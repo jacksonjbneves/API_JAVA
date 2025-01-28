@@ -1,0 +1,5 @@
+com\api\model\Pessoa.class
+com\api\controller\PessoaController.class
+com\api\App.class
+com\api\dao\PessoaDAO.class
+com\api\service\PessoaService.class
